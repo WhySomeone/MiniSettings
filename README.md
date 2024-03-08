@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/tpCkcQN/Group-210.png" alt="Someone" width="100%">
+<img src="https://i.ibb.co/bJk98y3/Hello.png" alt="Someone" width="100%">
 
 # MiniSettings
 
