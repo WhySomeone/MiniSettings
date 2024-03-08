@@ -36,3 +36,15 @@ struct ContentView: View {
     }
 }
 ```
+
+## Custom MiniSettings
+
+1. CheckBox
+```Swift
+CheckBoxView(isChecked: $CheckXD)
+```
+
+2. CustomSlider
+```Swift
+CustomSlider(value: $slider123)
+```
