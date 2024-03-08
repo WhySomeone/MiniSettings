@@ -1,6 +1,11 @@
 <img src="https://i.ibb.co/bJk98y3/Hello.png" alt="Someone" width="100%">
 
-# MiniSettings
+## MiniSettings
+
+`File > Add Pacakages`
+```Swift
+https://github.com/WhySomeone/MiniSettings.git
+```
 
 ##  How to Use
 
